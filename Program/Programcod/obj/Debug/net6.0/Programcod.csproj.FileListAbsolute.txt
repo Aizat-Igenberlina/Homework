@@ -1,0 +1,15 @@
+/Users/mak/Desktop/Program/Programcod/bin/Debug/net6.0/Programcod
+/Users/mak/Desktop/Program/Programcod/bin/Debug/net6.0/Programcod.deps.json
+/Users/mak/Desktop/Program/Programcod/bin/Debug/net6.0/Programcod.runtimeconfig.json
+/Users/mak/Desktop/Program/Programcod/bin/Debug/net6.0/Programcod.dll
+/Users/mak/Desktop/Program/Programcod/bin/Debug/net6.0/Programcod.pdb
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.csproj.AssemblyReference.cache
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.AssemblyInfoInputs.cache
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.AssemblyInfo.cs
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.dll
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/refint/Programcod.dll
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.pdb
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/Programcod.genruntimeconfig.cache
+/Users/mak/Desktop/Program/Programcod/obj/Debug/net6.0/ref/Programcod.dll
